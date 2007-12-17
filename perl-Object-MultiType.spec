@@ -15,7 +15,6 @@ Source:		    http://www.cpan.org/modules/by-module/Object/%{module}-%{version}.t
 BuildRequires:	perl-devel
 %endif
 BuildArch:	    noarch
-BuildRoot:	    %{_tmppath}/%{name}-%{version}
 
 %description
 This module return an object that works like a Hash, Array,
