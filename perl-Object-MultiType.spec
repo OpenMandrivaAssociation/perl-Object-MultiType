@@ -1,7 +1,7 @@
 %define module  Object-MultiType
 %define name	perl-%{module}
 %define version 0.05
-%define release %mkrel 6
+%define release %mkrel 7
 
 Name:		    %{name}
 Version:	    %{version}
