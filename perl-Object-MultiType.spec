@@ -8,7 +8,7 @@ Release:	4
 Summary:	Perl Objects as Hash, Array, Scalar, Code and Glob at the same time
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}/
+Url:		https://search.cpan.org/dist/%{upstream_name}/
 Source0:	http://www.cpan.org/modules/by-module/Object/%{upstream_name}-%{upstream_version}.tar.bz2
 
 BuildRequires:	perl-devel
